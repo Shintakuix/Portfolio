@@ -44,6 +44,11 @@ section {
     padding-top: 60px;
   }
 
+  .main-exp {
+    height: 1000px;
+    padding-top: 60px;
+  }
+
   .oswald {
     font-family: 'Oswald', sans-serif;
   }
